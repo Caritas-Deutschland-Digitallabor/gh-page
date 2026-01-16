@@ -1,0 +1,7 @@
+# GitHub Pages configuration
+title: GitHub Pages Sample Project
+description: A sample static website demonstrating GitHub Pages capabilities
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
